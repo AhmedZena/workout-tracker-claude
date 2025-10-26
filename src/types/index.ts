@@ -42,6 +42,7 @@ export interface ExerciseTemplate {
   notes?: string;
   restTime?: string; // e.g., "0:1:0"
   technique?: string; // e.g., "Super Sets"
+  imageUrl?: string; // Exercise demonstration image
 }
 
 export interface LocalStorageData {

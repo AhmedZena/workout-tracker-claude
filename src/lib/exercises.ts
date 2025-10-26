@@ -10,6 +10,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Push',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400',
     },
     {
       name: 'One Arm Dumbbell Lateral Raise',
@@ -17,6 +18,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Push',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400',
     },
     {
       name: 'Single Arm Cable Tri-Pushdown',
@@ -24,6 +26,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Push',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400',
     },
     {
       name: 'Tricep Overhead Extension with Rope',
@@ -31,6 +34,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Push',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400',
     },
     {
       name: 'Palms-Down Barbell Wrist Curl',
@@ -39,6 +43,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       category: 'Push',
       restTime: '0:1:0',
       technique: 'Super Sets',
+      imageUrl: 'https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400',
     },
     {
       name: 'Palms-Up Barbell Wrist Curl',
@@ -47,6 +52,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       category: 'Push',
       restTime: '0:1:0',
       technique: 'Super Sets',
+      imageUrl: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=400',
     },
   ],
 
@@ -57,6 +63,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Pull',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400',
     },
     {
       name: 'Wide Seated Row Male',
@@ -64,6 +71,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Pull',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400',
     },
     {
       name: 'T-Bar Row Wide Grip',
@@ -71,6 +79,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Pull',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400',
     },
     {
       name: 'Seated Cable Single Row',
@@ -78,6 +87,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Pull',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400',
     },
     {
       name: 'Dumbbell Shrug',
@@ -85,6 +95,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Pull',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=400',
     },
     {
       name: 'Cable Rear Delt Fly',
@@ -93,6 +104,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       category: 'Pull',
       restTime: '0:1:0',
       technique: 'Super Sets',
+      imageUrl: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400',
     },
     {
       name: 'Preacher Barbell Curl',
@@ -101,6 +113,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       category: 'Pull',
       restTime: '0:1:0',
       notes: 'بالزوايلك',
+      imageUrl: 'https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400',
     },
     {
       name: 'Single Arm Cable Bicep Curl',
@@ -108,6 +121,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Pull',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400',
     },
   ],
 
@@ -119,6 +133,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       category: 'Leg',
       restTime: '0:1:0',
       notes: 'الضغط عليه جامد مع هيفس البتير الثنائي اثناء او في نهاية التاني عادي بس',
+      imageUrl: 'https://images.unsplash.com/photo-1434682772747-f16d3ea162c3?w=400',
     },
     {
       name: 'Leg Extension',
@@ -126,6 +141,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Leg',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400',
     },
     {
       name: 'Squat Smith',
@@ -133,6 +149,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Leg',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=400',
     },
     {
       name: 'Deadlift Technique',
@@ -140,6 +157,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Leg',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=400',
     },
     {
       name: 'Seated Machine Calf Press',
@@ -147,6 +165,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '8-12',
       category: 'Leg',
       restTime: '0:1:0',
+      imageUrl: 'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=400',
     },
   ],
 
@@ -157,24 +176,28 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       defaultReps: '10 min',
       category: 'Upper',
       notes: 'تسخين عشر دقائق قبل التمرين',
+      imageUrl: 'https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=400',
     },
     {
       name: 'Side Plank',
       defaultSets: 3,
       defaultReps: '12',
       category: 'Upper',
+      imageUrl: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400',
     },
     {
       name: 'Cable Crunch',
       defaultSets: 3,
       defaultReps: '8-12',
       category: 'Upper',
+      imageUrl: 'https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=400',
     },
     {
       name: 'Cable Crunch',
       defaultSets: 4,
       defaultReps: '12',
       category: 'Upper',
+      imageUrl: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400',
     },
     {
       name: 'Crunch',
@@ -183,6 +206,7 @@ export const EXERCISES: Record<DayType, ExerciseTemplate[]> = {
       category: 'Upper',
       restTime: '0:1:0',
       technique: 'Super Sets',
+      imageUrl: 'https://images.unsplash.com/photo-1434682772747-f16d3ea162c3?w=400',
     },
   ],
 };
